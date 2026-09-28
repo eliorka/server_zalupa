@@ -1,13 +1,13 @@
 {
-  "packVersion": "0.0.1",
-  "publishedAt": "2026-09-28T17:45:36.285Z",
+  "packVersion": "0.0.2",
+  "publishedAt": "2026-09-28T17:46:11.154Z",
   "minecraft": "1.20.1",
   "loader": "forge",
   "files": [
     {
       "path": "mods/dayz-core-1.0.0.jar",
-      "sha256": "668df0b5b6816f2dd633c32682d063959e818f349d8cad87a805fc17ad5d06c6",
-      "size": 20029
+      "sha256": "d9a420d6644a551e1f27afec74b6f7ecc1dd6bdd1d231d345af02f73a77012fa",
+      "size": 20031
     },
     {
       "path": "mods/dayz-weapons-1.0.0.jar",
