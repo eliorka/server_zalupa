@@ -1,18 +1,7 @@
 {
-  "packVersion": "1.0.1",
-  "publishedAt": "2026-09-28T17:53:47.248Z",
+  "packVersion": "1.0.2",
+  "publishedAt": "2026-09-28T17:56:46.128Z",
   "minecraft": "1.20.1",
   "loader": "forge",
-  "files": [
-    {
-      "path": "mods/dayz-core-1.0.0.jar",
-      "sha256": "38cfe4a902ee6c44004a01db27f47f5755aaa0b90a56dbce01d7f70d9c1ec402",
-      "size": 20031
-    },
-    {
-      "path": "mods/dayz-food-1.0.0.jar",
-      "sha256": "dc70bf51443e59f5a96fe5fd7fa2fc91c708bf77a52d703f0ddeb27f9634ddd9",
-      "size": 12029
-    }
-  ]
+  "files": []
 }
