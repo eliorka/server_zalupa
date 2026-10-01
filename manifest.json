@@ -1,13 +1,7 @@
 {
-  "packVersion": "thhgfh",
+  "packVersion": "pystaya",
   "minecraft": "1.20.1",
   "loader": "forge",
-  "files": [
-    {
-      "path": "mods/Axiom-6.0.5-for-MC1.20.1.jar",
-      "sha256": "d96625a1b5e2317d4e5a5d87395cf1814654b9ccff4f5cbdbc45d12a0c947b82",
-      "size": 47163660
-    }
-  ],
-  "publishedAt": "2026-10-01T13:36:38.482Z"
+  "files": [],
+  "publishedAt": "2026-10-01T15:34:57.015Z"
 }
