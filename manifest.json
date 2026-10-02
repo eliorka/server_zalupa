@@ -1,5 +1,5 @@
 {
-  "packVersion": "1.1.1",
+  "packVersion": "1.2.0",
   "minecraft": "1.20.1",
   "loader": "forge",
   "files": [
@@ -32,11 +32,6 @@
       "path": "mods/CameraOverhaul-v2.1.2-forge+mc[1.20-1.20.5].jar",
       "sha256": "efec2331678c6653e9d43d5ad24a902ec538613fed708843c9431bb72dca844d",
       "size": 139791
-    },
-    {
-      "path": "mods/chatanimation-forge-1.3.3+mc1.20.1.jar",
-      "sha256": "431da94acc595487a27b174c40c15c6e2ccce5a8e9538ed8ee04f2d95eacdca3",
-      "size": 1067270
     },
     {
       "path": "mods/cloth-config-11.1.136-forge.jar",
@@ -254,11 +249,6 @@
       "size": 57465167
     },
     {
-      "path": "mods/Vehicle-Unofficial-1.20.1.20260413.jar",
-      "sha256": "56fc18580672a2e43a314695097986c39acaa7ddbb84765bc578518aa423a420",
-      "size": 4590431
-    },
-    {
       "path": "mods/voicechat-forge-1.20.1-2.6.24.jar",
       "sha256": "72fd45aa54616000be2808054258455d0c965897a27608299762f7957ff9ffdd",
       "size": 4939841
@@ -274,5 +264,5 @@
       "size": 1425022
     }
   ],
-  "publishedAt": "2026-10-01T17:02:45.336Z"
+  "publishedAt": "2026-10-02T17:33:41.433Z"
 }
