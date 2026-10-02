@@ -1,7 +1,278 @@
 {
-  "packVersion": "1.1.0",
+  "packVersion": "1.1.1",
   "minecraft": "1.20.1",
   "loader": "forge",
-  "files": [],
-  "publishedAt": "2026-10-01T15:49:14.135Z"
+  "files": [
+    {
+      "path": "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
+      "sha256": "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02",
+      "size": 7335
+    },
+    {
+      "path": "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+      "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
+      "size": 53429226
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
+      "size": 47428
+    },
+    {
+      "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
+      "sha256": "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8",
+      "size": 460234
+    },
+    {
+      "path": "mods/berezka_api-1.2.9.6-forge-1.20.1.jar",
+      "sha256": "3eebfb066cf351b951dfe2ad55300553ea7cc7b1f79883c989ca7c69f60b8649",
+      "size": 159609
+    },
+    {
+      "path": "mods/CameraOverhaul-v2.1.2-forge+mc[1.20-1.20.5].jar",
+      "sha256": "efec2331678c6653e9d43d5ad24a902ec538613fed708843c9431bb72dca844d",
+      "size": 139791
+    },
+    {
+      "path": "mods/chatanimation-forge-1.3.3+mc1.20.1.jar",
+      "sha256": "431da94acc595487a27b174c40c15c6e2ccce5a8e9538ed8ee04f2d95eacdca3",
+      "size": 1067270
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "size": 1181413
+    },
+    {
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "sha256": "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd",
+      "size": 115280
+    },
+    {
+      "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha256": "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
+      "size": 64187
+    },
+    {
+      "path": "mods/corpse-forge-1.20.1-1.0.23.jar",
+      "sha256": "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c",
+      "size": 245644
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "sha256": "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4",
+      "size": 1144290
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+      "size": 398066
+    },
+    {
+      "path": "mods/CustomNPCs-1.20.1-GBPort-Unofficial-20251031.jar",
+      "sha256": "2466e85869c467becbd3d6736c285e49d4dfa1b1b11deb68607180a448b2d777",
+      "size": 10808462
+    },
+    {
+      "path": "mods/doomsday_decoration-1.1.3-forge-1.20.1.jar",
+      "sha256": "2572f9e0ce97cce8ff6f3f207ad164e3da8cb8b45f6658705943af176f39cc63",
+      "size": 9658884
+    },
+    {
+      "path": "mods/doomsday_functionality-1.20.1-0.1.2.jar",
+      "sha256": "f58676815812846c3dadc14920d2a7d1903c9d3e3d597508a71da5512de5b771",
+      "size": 212421
+    },
+    {
+      "path": "mods/doomsday_translations-1.0.7.jar",
+      "sha256": "397c6a8c708b50cfb479f134a27ac328ea2fd147e47eebab38c94c1b53a38900",
+      "size": 77882
+    },
+    {
+      "path": "mods/Drip Sounds-0.5.2+1.20.4-Forge.jar",
+      "sha256": "974689e190b1be0ee1e7c02778f5e2392dc80416beee923acde46d8ed51936f8",
+      "size": 58958
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675
+    },
+    {
+      "path": "mods/entityculling-forge-1.11.2-mc1.20.1.jar",
+      "sha256": "5d5dc228dc18422fd8a81cff63e654abb07ca4507b317db114b220aa3fc67d3b",
+      "size": 1515048
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.3.4.jar",
+      "sha256": "34f03eb671ea1ca579b00c98e4541404cb96d1a292014aed9cc5eb45ad8afbce",
+      "size": 3311051
+    },
+    {
+      "path": "mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
+      "sha256": "559115ba1031affa8733c89c4558f44cc97471210f28de7437270684b4242f7a",
+      "size": 10409
+    },
+    {
+      "path": "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+      "sha256": "038a5fa1c044d5afae22502ca1444eeb1a700d34a224996c25f233524ae35a7a",
+      "size": 66989
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034
+    },
+    {
+      "path": "mods/fracturepoint-1.20.1-3.0.0-PT2-all.jar",
+      "sha256": "0ec243efe680c4fb5303fb91620ecf68bf7232752f52af525641e07aec1b01f9",
+      "size": 2465304
+    },
+    {
+      "path": "mods/framework-forge-1.20.1-0.8.0.jar",
+      "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0",
+      "size": 383868
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747",
+      "size": 1038209
+    },
+    {
+      "path": "mods/Gunfire Overhaul-0.1.6-a.jar",
+      "sha256": "dab997ea3593b110f8220abd4a90038e0a431cac5900a6ec60f6f2212fca9aa6",
+      "size": 6125997
+    },
+    {
+      "path": "mods/hiddennames-1.20.1-1.0.6.jar",
+      "sha256": "37fdbed9298d72c1d1b9400bbfb024e6f6bd01a39c3dbd184aa8e836971b3a4b",
+      "size": 47190
+    },
+    {
+      "path": "mods/highlight-forge-1.20-2.0.1.jar",
+      "sha256": "a0967ce8605d99fd5870f093ddd3ba18c548b9b1858a459b42f4e0feabaefaee",
+      "size": 296161
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "sha256": "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035",
+      "size": 532063
+    },
+    {
+      "path": "mods/InvMove-0.9.3+1.20.1-Forge.jar",
+      "sha256": "fed951da0863669dea424fc7f9542e95f2bffe2fd53bef914e254fa9969d7885",
+      "size": 270522
+    },
+    {
+      "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+      "sha256": "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd",
+      "size": 227925
+    },
+    {
+      "path": "mods/modelfix-1.15.jar",
+      "sha256": "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16",
+      "size": 45246
+    },
+    {
+      "path": "mods/modernfix-forge-5.27.83+mc1.20.1.jar",
+      "sha256": "954ff22f601be8de3978a0d7636a138dc93801c6ac55cfd71ef1cd2895de8e5f",
+      "size": 1003230
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "size": 2851119
+    },
+    {
+      "path": "mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "sha256": "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce",
+      "size": 188661
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "size": 181437
+    },
+    {
+      "path": "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "sha256": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb",
+      "size": 5298162
+    },
+    {
+      "path": "mods/postapocalypse_structures-1.0.2-forge-1.20.1.jar",
+      "sha256": "ddb7316e11a3db9ebc7adb8469e2e515ca5f1a77942ac769e10b8fe52736cae8",
+      "size": 129014
+    },
+    {
+      "path": "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+      "sha256": "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98",
+      "size": 7080698
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da",
+      "size": 568608
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "sha256": "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825",
+      "size": 77732
+    },
+    {
+      "path": "mods/seriousplayeranimations-1.1.1.jar",
+      "sha256": "e806a058a7bb260bf805f20c870db4d9d099efb9f3953dd7f829e4bcd424e9fc",
+      "size": 292607
+    },
+    {
+      "path": "mods/skinlayers3d-forge-1.11.3-mc1.20.1.jar",
+      "sha256": "6229ea6e5d77dd1f66d21163bf3187abb899d59f508dae63ab67ecbb0f804cc5",
+      "size": 2093560
+    },
+    {
+      "path": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "sha256": "5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5",
+      "size": 41044
+    },
+    {
+      "path": "mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "sha256": "ce9a13c5f07e350f9c0b86af9e096aedb91cbc72996e59646da61ec724f1e4df",
+      "size": 438540
+    },
+    {
+      "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "sha256": "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415",
+      "size": 443978
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "sha256": "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c",
+      "size": 206984
+    },
+    {
+      "path": "mods/tacz-1.20.1-1.1.8-hotfix.jar",
+      "sha256": "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77",
+      "size": 57465167
+    },
+    {
+      "path": "mods/Vehicle-Unofficial-1.20.1.20260413.jar",
+      "sha256": "56fc18580672a2e43a314695097986c39acaa7ddbb84765bc578518aa423a420",
+      "size": 4590431
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.24.jar",
+      "sha256": "72fd45aa54616000be2808054258455d0c965897a27608299762f7957ff9ffdd",
+      "size": 4939841
+    },
+    {
+      "path": "mods/watut-forge-1.20.1-1.2.3.jar",
+      "sha256": "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
+      "size": 435496
+    },
+    {
+      "path": "mods/xaeroworldmap-forge-1.20.1-1.46.0.jar",
+      "sha256": "e00bd87a949cfa8c31d571f4d9646db038e3b98f8cdbb7bd217f3fb9c3780c9e",
+      "size": 1425022
+    }
+  ],
+  "publishedAt": "2026-10-01T17:02:45.336Z"
 }
