@@ -1,7 +1,7 @@
 {
-  "packVersion": "1.4.0",
+  "packVersion": "1.5.0",
   "minecraft": "1.20.1",
-  "loader": "forge",
+  "loader": "neoforge",
   "files": [
     {
       "path": "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
@@ -32,6 +32,11 @@
       "path": "mods/CameraOverhaul-v2.1.2-forge+mc[1.20-1.20.5].jar",
       "sha256": "efec2331678c6653e9d43d5ad24a902ec538613fed708843c9431bb72dca844d",
       "size": 139791
+    },
+    {
+      "path": "mods/chatanimation-forge-1.3.3+mc1.20.1.jar",
+      "sha256": "431da94acc595487a27b174c40c15c6e2ccce5a8e9538ed8ee04f2d95eacdca3",
+      "size": 1067270
     },
     {
       "path": "mods/cloth-config-11.1.136-forge.jar",
@@ -199,11 +204,6 @@
       "size": 129014
     },
     {
-      "path": "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
-      "sha256": "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98",
-      "size": 7080698
-    },
-    {
       "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
       "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da",
       "size": 568608
@@ -249,6 +249,11 @@
       "size": 57465167
     },
     {
+      "path": "mods/Vehicle-Unofficial-1.20.1.20260413.jar",
+      "sha256": "56fc18580672a2e43a314695097986c39acaa7ddbb84765bc578518aa423a420",
+      "size": 4590431
+    },
+    {
       "path": "mods/voicechat-forge-1.20.1-2.6.24.jar",
       "sha256": "72fd45aa54616000be2808054258455d0c965897a27608299762f7957ff9ffdd",
       "size": 4939841
@@ -264,5 +269,5 @@
       "size": 1425022
     }
   ],
-  "publishedAt": "2026-10-03T10:07:24.693Z"
+  "publishedAt": "2026-10-03T12:52:24.339Z"
 }
